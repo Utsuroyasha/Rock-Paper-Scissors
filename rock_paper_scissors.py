@@ -43,4 +43,4 @@ while True:
 print("You won ", user_wins, "times.")
 print("The computer won ", computer_wins, "times.")
 print("You had ", draws, "draws.")
-print("Goodbye!")
+print("Goodbye.")
